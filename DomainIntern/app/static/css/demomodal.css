@@ -1,0 +1,35 @@
+.body {
+            margin: 30px;
+        }
+
+.container {
+            border: 1px solid black;
+        }
+
+.myrow {
+            border: 2px solid black;
+            align-content: center;
+        }
+
+.mycol {
+            border: 1px solid black;
+            align-content: center;
+        }
+
+.myhead {
+            border: 1px solid darkcyan;
+            height: 100px;
+        }
+#topBtn{
+            position: fixed;
+            bottom :40px;
+            right: 40px;
+            font-size: 22px;
+            width: 60px;
+            height: 60px;
+            background: #e74c3c;
+            color: white;
+            border: none;
+            cursor: pointer;
+            display: none;
+        }
